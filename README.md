@@ -34,11 +34,7 @@ The Dataset consists of around 1.6 Million tweets . I have worked on to preproce
    - To run the file open command prompt and type "streamlit run streamlit_app.py"
      ***Note*** : If you have not installed streamlit library in your desktop run command "pip install streamlit".
 
-     I will share the snapshots of my web interfaces below . Go and check out from there .
-
-     ![Web Interface Developed using Flask,HTML,CSS](Web Interface Images/Flask Interface.png)
-     
-     ![Web Interface Developed using Streamlit](Web Interface Images/Streamlit Interface.png)
+     I will share the snapshots of my web interfaces in the folder Web INterface Images in my repository . Please go and check out from there
 
 ### Task 2: Image Classification on Food Recognition
 
