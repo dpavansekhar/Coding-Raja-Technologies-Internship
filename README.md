@@ -27,6 +27,18 @@ The Dataset consists of around 1.6 Million tweets . I have worked on to preproce
    - I have created an simple web interface . So that everyone can access it  through the web application.
    - To run the web application after unwrapping the zip file you have downloaded
    - Run Command "python app.py" in the command prompt.
+  
+   - I have create an 2nd interface too . To access that interface I have created an streamlit_app.py file .
+   - In this file I have written my code.
+   - Streamlit is an python library which will help the people to develop an simple web interface using the python.
+   - To run the file open command prompt and type "streamlit run streamlit_app.py"
+     ***Note*** : If you have not installed streamlit library in your desktop run command "pip install streamlit".
+
+     I will share the snapshots of my web interfaces below . Go and check out from there .
+
+     ![Web Interface Developed using HTML,CSS]()
+     
+     ![Web Interface Developed using Streamlit]()
 
 ### Task 2: Image Classification on Food Recognition
 
