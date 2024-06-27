@@ -36,9 +36,9 @@ The Dataset consists of around 1.6 Million tweets . I have worked on to preproce
 
      I will share the snapshots of my web interfaces below . Go and check out from there .
 
-     ![Web Interface Developed using HTML,CSS]()
+     ![Web Interface Developed using Flask,HTML,CSS](Web Interface Images/Flask Interface.png)
      
-     ![Web Interface Developed using Streamlit]()
+     ![Web Interface Developed using Streamlit](Web Interface Images/Streamlit Interface.png)
 
 ### Task 2: Image Classification on Food Recognition
 
