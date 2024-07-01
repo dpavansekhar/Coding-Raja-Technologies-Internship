@@ -35,6 +35,10 @@ The Dataset consists of around 1.6 Million tweets . I have worked on to preproce
      ***Note*** : If you have not installed streamlit library in your desktop run command "pip install streamlit".
 
      I will share the snapshots of my web interfaces in the folder Web INterface Images in my repository . Please go and check out from there
+     ![Flask Interface](https://github.com/dpavansekhar/Coding-Raja-Technologies-Internship/assets/173888818/a23bca44-d45f-45e0-ab59-f4b1101d6440)
+     ![Streamlit Interface](https://github.com/dpavansekhar/Coding-Raja-Technologies-Internship/assets/173888818/aae2dfea-22ae-4fa4-9b93-f2e390083e50)
+
+
 
 ### Task 2: Image Classification on Food Recognition
 
