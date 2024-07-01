@@ -180,3 +180,6 @@ I will provide the models I have used through an google drive link . You can dow
 
 This internship provided a great opportunity to apply machine learning techniques to real-world problems. The hands-on experience with sentiment analysis and image classification has been invaluable in enhancing my skills in data science and deep learning.
 
+## NOTE :
+    - While Using the code change the file paths 
+    - While deployiing the streamlit_app.py and app.py open the file and change the path . So that it can runn efficiently
